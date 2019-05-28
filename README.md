@@ -27,6 +27,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 ## 2016
 - [[CVPR](http://openaccess.thecvf.com/content_cvpr_2016/papers/Redmon_You_Only_Look_CVPR_2016_paper.pdf)] You Only Look Once: Unified, Real-Time Object Detection  [[tensorflow](https://github.com/hizhangp/yolo_tensorflow)][[darknet](https://github.com/pjreddie/darknet)]:fire: :star:
 
+- [[acm multimedia](https://arxiv.org/pdf/1608.01471.pdf)] UnitBox: An Advanced Object Detection Network  [[tensorflow](https://github.com/zhimingluo/UnitBox_TF)]
+
 ## 2015
 - [[arXiv](https://arxiv.org/pdf/1509.04874.pdf)] DenseBox: Unifying Landmark Localization with End to End Object Detection. [[caffe](https://github.com/yangyi02/densebox)]
 
