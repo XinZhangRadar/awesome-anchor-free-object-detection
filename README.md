@@ -26,8 +26,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/pdf/1904.13300v1.pdf)] Segmentation is All You Need.
 - [[arXiv](https://arxiv.org/pdf/1904.01355.pdf)] FCOS: Fully Convolutional One-Stage Object Detection. [[pytorch](https://github.com/tianzhi0549/FCOS)]:fire: :star:
 - [[arXiv](https://arxiv.org/pdf/1904.08189.pdf)] CenterNet: Keypoint Triplets for Object Detection. [[pytorch](https://github.com/Duankaiwen/CenterNet)]  :fire: :star:
-- [[arXiv](https://arxiv.org/pdf/1904.03797v1.pdf)] FoveaBox: Beyond Anchor-based Object Detector
-- [[CVPR](https://arxiv.org/pdf/1903.00621.pdf)] Feature Selective Anchor-Free Module for Single-Shot Object Detection.
+- [[arXiv](https://arxiv.org/pdf/1904.03797v1.pdf)] FoveaBox: Beyond Anchor-based Object Detector[[pytorch](https://github.com/taokong/FoveaBox)]  :fire: :star:
+- [[CVPR](https://arxiv.org/pdf/1903.00621.pdf)] Feature Selective Anchor-Free Module for Single-Shot Object Detection.[[pytorch](https://github.com/hdjang/Feature-Selective-Anchor-Free-Module-for-Single-Shot-Object-Detection)]:fire: :star:
 - [[arXiv](https://arxiv.org/pdf/1901.08043.pdf)] ExtremeNet：Bottom-up Object Detection by Grouping Extreme and Center Points  [[pytorch](https://github.com/xingyizhou/ExtremeNet)]:fire: :star:
 ## 2018
 - [[ECCV](https://arxiv.org/pdf/1808.01244.pdf)] CornerNet: Detecting Objects as Paired Keypoints. [[pytorch](https://github.com/princeton-vl/CornerNet)]:fire: :star:
