@@ -17,9 +17,9 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 ## 2020
 - [[arXiv](https://arxiv.org/pdf/2007.03496.pdf)] AutoAssign: Differentiable Label Assignment for Dense Object Detection. 
 - [[arXiv](https://arxiv.org/pdf/2007.08508.pdf)] RepPoints V2: Verification Meets Regression for Object Detection. [[pytorch](https://github.com/Scalsol/RepPointsV2)] :fire: :star:
-- [[ECCV](https://arxiv.org/pdf/2007.13816.pdf)] Corner Proposal Network for Anchor-free, Two-stage Object Detection. [[available soon](https://github.com/Duankaiwen/CPNDet)]
+- [[ECCV](https://arxiv.org/pdf/2007.13816.pdf)] Corner Proposal Network for Anchor-free, Two-stage Object Detection. [[Available soon](https://github.com/Duankaiwen/CPNDet)]
 - [[ECCV](https://arxiv.org/pdf/2007.02355.pdf)] HoughNet: Integrating near and long-range evidence for bottom-up object detection. [[pytorch](https://github.com/nerminsamet/houghnet)]
-- [[CVPR](https://arxiv.org/pdf/1912.02424.pdf)] Bridging the Gap Between Anchor-based and Anchor-free Detection via Adaptive Training Sample Selection. [[pytorch](https://github.com/sfzhang15/ATSS)]
+- [[CVPR](https://arxiv.org/pdf/1912.02424.pdf)] Bridging the Gap Between Anchor-based and Anchor-free Detection via Adaptive Training Sample Selection. [[pytorch](https://github.com/sfzhang15/ATSS)]:fire: :star:
 - [[CVPR](https://arxiv.org/pdf/1911.12448.pdf)] Soft Anchor-Point Object Detection. [[Keras](https://github.com/xuannianz/SAPD)]
 ## 2019
 - [[ICCV](https://arxiv.org/pdf/1904.11490.pdf)] RepPoints: Point Set Representation for Object Detection. [[pytorch](https://github.com/microsoft/RepPoints)]:fire: :star:
