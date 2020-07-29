@@ -14,6 +14,8 @@ If you find the awesome paper/code/dataset or have some suggestions, please cont
 Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citation >= 50
 
 ---
+##2020
+- [[arXiv](https://arxiv.org/pdf/2007.13816.pdf)] Corner Proposal Network for Anchor-free, Two-stage Object Detection. [[available soon](https://github.com/Duankaiwen/CPNDet)]:fire: :star:
 ## 2019
 - [[arXiv](https://arxiv.org/pdf/1904.13300v1.pdf)] Segmentation is All You Need.
 - [[arXiv](https://arxiv.org/pdf/1904.01355.pdf)] FCOS: Fully Convolutional One-Stage Object Detection. [[pytorch](https://github.com/tianzhi0549/FCOS)]:fire: :star:
