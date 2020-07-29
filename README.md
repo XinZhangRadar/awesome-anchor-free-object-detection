@@ -11,30 +11,30 @@ If you find the awesome paper/code/dataset or have some suggestions, please cont
 
 </h1>
 
-Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citation >= 50
+Statistics: :fire: code is available & stars >= 100
 
 ---
 ## 2020
 - [[arXiv](https://arxiv.org/pdf/2007.03496.pdf)] AutoAssign: Differentiable Label Assignment for Dense Object Detection. 
-- [[arXiv](https://arxiv.org/pdf/2007.08508.pdf)] RepPoints V2: Verification Meets Regression for Object Detection. [[pytorch](https://github.com/Scalsol/RepPointsV2)] :fire: :star:
+- [[arXiv](https://arxiv.org/pdf/2007.08508.pdf)] RepPoints V2: Verification Meets Regression for Object Detection. [[pytorch](https://github.com/Scalsol/RepPointsV2)] :fire: 
 - [[ECCV](https://arxiv.org/pdf/2007.13816.pdf)] Corner Proposal Network for Anchor-free, Two-stage Object Detection. [[Available soon](https://github.com/Duankaiwen/CPNDet)]
 - [[ECCV](https://arxiv.org/pdf/2007.02355.pdf)] HoughNet: Integrating near and long-range evidence for bottom-up object detection. [[pytorch](https://github.com/nerminsamet/houghnet)]
-- [[CVPR](https://arxiv.org/pdf/1912.02424.pdf)] Bridging the Gap Between Anchor-based and Anchor-free Detection via Adaptive Training Sample Selection. [[pytorch](https://github.com/sfzhang15/ATSS)]:fire: :star:
+- [[CVPR](https://arxiv.org/pdf/1912.02424.pdf)] Bridging the Gap Between Anchor-based and Anchor-free Detection via Adaptive Training Sample Selection. [[pytorch](https://github.com/sfzhang15/ATSS)]:fire: 
 - [[CVPR](https://arxiv.org/pdf/1911.12448.pdf)] Soft Anchor-Point Object Detection. [[Keras](https://github.com/xuannianz/SAPD)]
 ## 2019
-- [[ICCV](https://arxiv.org/pdf/1904.11490.pdf)] RepPoints: Point Set Representation for Object Detection. [[pytorch](https://github.com/microsoft/RepPoints)]:fire: :star:
+- [[ICCV](https://arxiv.org/pdf/1904.11490.pdf)] RepPoints: Point Set Representation for Object Detection. [[pytorch](https://github.com/microsoft/RepPoints)]:fire: 
 - [[arXiv](https://arxiv.org/pdf/1904.13300v1.pdf)] Segmentation is All You Need.
-- [[arXiv](https://arxiv.org/pdf/1904.01355.pdf)] FCOS: Fully Convolutional One-Stage Object Detection. [[pytorch](https://github.com/tianzhi0549/FCOS)]:fire: :star:
-- [[arXiv](https://arxiv.org/pdf/1904.08189.pdf)] CenterNet: Keypoint Triplets for Object Detection. [[pytorch](https://github.com/Duankaiwen/CenterNet)]  :fire: :star:
-- [[arXiv](https://arxiv.org/pdf/1904.03797v1.pdf)] FoveaBox: Beyond Anchor-based Object Detector[[pytorch](https://github.com/taokong/FoveaBox)]  :fire: :star:
-- [[CVPR](https://arxiv.org/pdf/1903.00621.pdf)] Feature Selective Anchor-Free Module for Single-Shot Object Detection.[[pytorch](https://github.com/hdjang/Feature-Selective-Anchor-Free-Module-for-Single-Shot-Object-Detection)]:fire: :star:
-- [[arXiv](https://arxiv.org/pdf/1901.08043.pdf)] ExtremeNet：Bottom-up Object Detection by Grouping Extreme and Center Points  [[pytorch](https://github.com/xingyizhou/ExtremeNet)]:fire: :star:
+- [[arXiv](https://arxiv.org/pdf/1904.01355.pdf)] FCOS: Fully Convolutional One-Stage Object Detection. [[pytorch](https://github.com/tianzhi0549/FCOS)]:fire: 
+- [[arXiv](https://arxiv.org/pdf/1904.08189.pdf)] CenterNet: Keypoint Triplets for Object Detection. [[pytorch](https://github.com/Duankaiwen/CenterNet)]  :fire: 
+- [[arXiv](https://arxiv.org/pdf/1904.03797v1.pdf)] FoveaBox: Beyond Anchor-based Object Detector[[pytorch](https://github.com/taokong/FoveaBox)]  :fire:
+- [[CVPR](https://arxiv.org/pdf/1903.00621.pdf)] Feature Selective Anchor-Free Module for Single-Shot Object Detection.[[pytorch](https://github.com/hdjang/Feature-Selective-Anchor-Free-Module-for-Single-Shot-Object-Detection)]:fire:
+- [[arXiv](https://arxiv.org/pdf/1901.08043.pdf)] ExtremeNet：Bottom-up Object Detection by Grouping Extreme and Center Points  [[pytorch](https://github.com/xingyizhou/ExtremeNet)]:fire: 
 ## 2018
-- [[ECCV](https://arxiv.org/pdf/1808.01244.pdf)] CornerNet: Detecting Objects as Paired Keypoints. [[pytorch](https://github.com/princeton-vl/CornerNet)]:fire: :star:
+- [[ECCV](https://arxiv.org/pdf/1808.01244.pdf)] CornerNet: Detecting Objects as Paired Keypoints. [[pytorch](https://github.com/princeton-vl/CornerNet)]:fire:
 - [[arXiv](https://arxiv.org/ftp/arxiv/papers/1804/1804.09003.pdf)] An Anchor-Free Region Proposal Network for Faster R-CNN based Text Detection Approaches.
 
 ## 2016
-- [[CVPR](http://openaccess.thecvf.com/content_cvpr_2016/papers/Redmon_You_Only_Look_CVPR_2016_paper.pdf)] You Only Look Once: Unified, Real-Time Object Detection  [[tensorflow](https://github.com/hizhangp/yolo_tensorflow)][[darknet](https://github.com/pjreddie/darknet)]:fire: :star:
+- [[CVPR](http://openaccess.thecvf.com/content_cvpr_2016/papers/Redmon_You_Only_Look_CVPR_2016_paper.pdf)] You Only Look Once: Unified, Real-Time Object Detection  [[tensorflow](https://github.com/hizhangp/yolo_tensorflow)][[darknet](https://github.com/pjreddie/darknet)]:fire: 
 
 - [[acm multimedia](https://arxiv.org/pdf/1608.01471.pdf)] UnitBox: An Advanced Object Detection Network  [[tensorflow](https://github.com/zhimingluo/UnitBox_TF)]
 
