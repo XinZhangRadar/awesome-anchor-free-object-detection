@@ -19,7 +19,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/pdf/2007.08508.pdf)] RepPoints V2: Verification Meets Regression for Object Detection. [[pytorch](https://github.com/Scalsol/RepPointsV2)] :fire: :star:
 - [[ECCV](https://arxiv.org/pdf/2007.13816.pdf)] Corner Proposal Network for Anchor-free, Two-stage Object Detection. [[available soon](https://github.com/Duankaiwen/CPNDet)]
 - [[ECCV](https://arxiv.org/pdf/2007.02355.pdf)] HoughNet: Integrating near and long-range evidence for bottom-up object detection. [[pytorch](https://github.com/nerminsamet/houghnet)]
-
+- [[CVPR](https://arxiv.org/pdf/1912.02424.pdf)] Bridging the Gap Between Anchor-based and Anchor-free Detection via Adaptive Training Sample Selection. [[pytorch](https://github.com/sfzhang15/ATSS)]
 ## 2019
 - [[arXiv](https://arxiv.org/pdf/1904.13300v1.pdf)] Segmentation is All You Need.
 - [[arXiv](https://arxiv.org/pdf/1904.01355.pdf)] FCOS: Fully Convolutional One-Stage Object Detection. [[pytorch](https://github.com/tianzhi0549/FCOS)]:fire: :star:
