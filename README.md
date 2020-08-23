@@ -1,7 +1,7 @@
 # awesome-anchor-free-object-detection [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 for anyone who wants to do research about anchor free object detection.   
 
-If you find the awesome paper/code/dataset or have some suggestions, please contact xin.zhang2018@nlpr.ia.ac.cn and nuo.xu@nlpr.ia.ac.cn. Thanks for your valuable contribution to the research community :smiley:   
+If you find the awesome paper/code/dataset or have some suggestions, please contact xin.zhang2018@nlpr.ia.ac.cn, nuo.xu@nlpr.ia.ac.cn and xswang@wayne.edu. Thanks for your valuable contribution to the research community :smiley:   
 
 <h1> 
 
