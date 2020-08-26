@@ -31,6 +31,12 @@ Statistics: :fire: code is available & stars >= 100
 
 - [[arXiv](https://arxiv.org/pdf/2003.12125.pdf)] SaccadeNet: A Fast and Accurate Object Detector. [[pytorch](https://github.com/AllenPeng0209/SaccadeNet)]
 
+- [[arXiv](https://arxiv.org/pdf/2006.15607.pdf)] Localization Uncertainty Estimation for Anchor-Free Object Detection.
+
+- [[ECCV](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660222.pdf)] Dense RepPoints: Representing Visual Objects with Dense Point Sets. [[pytorch](https://github.com/justimyhxu/Dense-RepPoints)]
+
+- [[ECCV](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460528.pdf)] BorderDet: Border Feature for Dense Object Detection. [[pytorch](https://github.com/Megvii-BaseDetection/BorderDet)]:fire:
+
 ## 2019
 - [[ICCV](https://arxiv.org/pdf/1904.11490.pdf)] RepPoints: Point Set Representation for Object Detection. [[pytorch](https://github.com/microsoft/RepPoints)]:fire:
 
