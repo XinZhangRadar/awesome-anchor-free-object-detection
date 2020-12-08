@@ -17,9 +17,9 @@ Statistics: :fire: code is available & stars >= 100
 ## 2020
 - [[arXiv](https://peizesun.github.io/OneNet.pdf)] OneNet: End-to-End One-Stage Object Detection by Classification Cost.[[pytorch](https://github.com/PeizeSun/OneNet)]:fire:
 
-- [[arXiv](https://peizesun.github.io/OneNet.pdf)] End-to-End Object Detection with Fully Convolutional Network
+- [[arXiv](https://link.zhihu.com/?target=https%3A//megvii-my.sharepoint.cn/%3Ab%3A/g/personal/wangjianfeng_megvii_com/ESv-mhmktR9GlwaaV3zMdeEB6TEXQ0bQsFf_S_N4ntBZCA%3Fe%3DbFJN9q)] End-to-End Object Detection with Fully Convolutional Network
 
-- [[arXiv](https://peizesun.github.io/OneNet.pdf)] Sparse R-CNN: End-to-End Object Detection with Learnable Proposals
+- [[arXiv](https://github.com/PeizeSun/SparseR-CNN)] Sparse R-CNN: End-to-End Object Detection with Learnable Proposals.[[pytorch](https://arxiv.org/pdf/2011.12450.pdf)]:fire:
 
 - [[arXiv](https://arxiv.org/pdf/2005.12872.pdf)] End-to-End Object Detection with Transformers.[[pytorch](https://github.com/facebookresearch/detr)]:fire:
 
