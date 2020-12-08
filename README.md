@@ -15,6 +15,14 @@ Statistics: :fire: code is available & stars >= 100
 
 ---
 ## 2020
+- [[arXiv](https://peizesun.github.io/OneNet.pdf)] OneNet: End-to-End One-Stage Object Detection by Classification Cost.[[pytorch](https://github.com/PeizeSun/OneNet)]:fire:
+
+- [[arXiv](https://peizesun.github.io/OneNet.pdf)] End-to-End Object Detection with Fully Convolutional Network
+
+- [[arXiv](https://peizesun.github.io/OneNet.pdf)] Sparse R-CNN: End-to-End Object Detection with Learnable Proposals
+
+- [[arXiv](https://arxiv.org/pdf/2005.12872.pdf)] End-to-End Object Detection with Transformers.[[pytorch](https://github.com/facebookresearch/detr)]:fire:
+
 - [[arXiv](https://arxiv.org/pdf/2007.03496.pdf)] AutoAssign: Differentiable Label Assignment for Dense Object Detection.
 
 - [[arXiv](https://arxiv.org/pdf/2007.08508.pdf)] RepPoints V2: Verification Meets Regression for Object Detection. [[pytorch](https://github.com/Scalsol/RepPointsV2)]:fire:
